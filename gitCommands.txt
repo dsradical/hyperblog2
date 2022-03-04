@@ -1,0 +1,34 @@
+Git; sistema de control de versiones
+
+git init arranca, inicializa el repo
+
+git add arranca el archivo
+
+git commit -m "Version 1" envia los cambios de archivo a la BD del sistema de control de versiones
+
+git add . agrega todos los archivos que han cambiado
+
+git commit -m "cambios a v1"
+
+git status muestra el estatus de la BD
+
+git show muestra cambios historicos hechos
+
+git log muestra la historia entera de un archivo
+
+git push envia el archivo hacia un reprositorio remoto
+
+git pull trae el archivo desde un repo remoto
+
+git rm (. -r, filename) (-cached) remueve archivos del index
+
+git config --global user.email dsdev.radical@gmail.com configura email
+
+git config --global user.name configura nombre
+
+git config --list lista las configuraciones
+
+git --version verifica la version de git instalada en mac
+
+brew upgrade git actualiza git
+
