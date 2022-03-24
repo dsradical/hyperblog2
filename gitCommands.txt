@@ -32,3 +32,10 @@ git --version verifica la version de git instalada en mac
 
 brew upgrade git actualiza git
 
+git show filename .... muestra los cambios del archivo
+
+git reset permite volver a una version especifica
+
+git reset 77382b54b2b2488e97578d92f9925797ada22c4d --hard
+
+
