@@ -38,4 +38,3 @@ git reset permite volver a una version especifica
 
 git reset 77382b54b2b2488e97578d92f9925797ada22c4d --hard
 
-
