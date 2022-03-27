@@ -476,3 +476,18 @@ rechazando los cambios que vienen.
 
 # 18 # Cambios en GitHub: de master a main
 
+---------------------------------------------------------------------------------------------------------------------------------
+# 19 #
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+# 20 # Uso de GitHub
+
+git add remote origin https://github.com/dsradical/hyperblog2.git
+
+no entendi ul=n culo
+
+
+
+
+
